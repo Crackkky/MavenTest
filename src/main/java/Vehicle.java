@@ -14,7 +14,6 @@ public class Vehicle {
     }
 
 
-
     @Override
     public String toString() {
         return "Vehicle : " + number + ", is " + color ;
